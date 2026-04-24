@@ -1,5 +1,5 @@
 from GlobWRFFun import MonthGlob
-from TestWRFFun import MonthTimeSeries
+from PlotWRFFun import MonthTimeSeries
 import pandas as pd
 
 # ===============================
